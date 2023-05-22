@@ -1,0 +1,68 @@
+/**
+ * @name nunitoupdate1
+ * @author Disease#5663
+ * @version 1.0.11
+ * @description macOS with barely any customization.
+ * @source https://github.com/maenDisease/Solana
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Solana
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@100;300;400;500;700&display=swap');
+@import url('https://maendisease.github.io/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+
+:root {
+  --accent-hue: 204;
+  --accent-saturation: 100%;
+  --accent-brightness: 50%;
+  --background-accent-hue: 213;
+  --background-accent-saturation: 100%;
+  --background-accent-brightness: 50%;
+  --background-image: url('https://i.imgur.com/ckWG8LN.jpg'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: center;
+  --background-image-size: cover;
+  --background-image-blur: 0px;
+  --background-overlay-opacity: 80%;
+  --background-overlay-color-lightness: 0;
+  --background-hue-shift-strength: 100%;
+  --window-background-image: initial;
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 75%;
+  --window-blur: 1;
+  --window-friends-blur: 1;
+  --window-margin: 10;
+  --window-margin-left: 0;
+  --window-border-radius: 20px;
+  --window-background-lightness: -0.75;
+  --window-accent-tint-strength: 0%;
+  --chat-bubble: 1;
+  --text-link-hue: 204;
+  --chat-text-brightness: 0.5;
+  --home-icon: url('https://i.imgur.com/HHwu8VV.png');
+  --favorites-icon: initial;
+  --dock-blur: 3; /* Blur intensity of the dock. */
+  --dock-border-radius: 1;
+  --sidebar-width: 240px;
+  --members-width: 210px;
+  --sidebar-text-brightness: 1;
+  --background-floating-blur: 20px;
+  --floating-background-lightness: -1;
+  --background-floating-opacity: 1;
+  --enable-floating-transparency: 1;
+  --custom-font-display: Nunito;
+  --custom-font-regular: Nunito;
+  --custom-font-primary: Nunito;
+  --custom-font-code: Nunito Sans;
+  --enable-blur: 1;
+}
+
+/* Any custom CSS below here */
+
+
